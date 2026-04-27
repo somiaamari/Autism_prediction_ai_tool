@@ -1,0 +1,44 @@
+{
+  "low_probability": [
+    {
+      "title": "Child Development Milestones",
+      "description": "Track your child's growth and development with age-appropriate milestones.",
+      "link": "https://www.cdc.gov/ncbddd/actearly/milestones/index.html",
+      "category": "development"
+    },
+    {
+      "title": "Positive Parenting Tips",
+      "description": "Age-appropriate parenting tips to support your child's development.",
+      "link": "https://www.cdc.gov/ncbddd/childdevelopment/positiveparenting/index.html",
+      "category": "parenting"
+    }
+  ],
+  "medium_probability": [
+    {
+      "title": "How to Talk to Your Pediatrician",
+      "description": "A guide on preparing for and discussing developmental concerns with your doctor.",
+      "link": "",
+      "category": "medical"
+    },
+    {
+      "title": "Early Intervention Programs",
+      "description": "Information about early intervention services for developmental delays.",
+      "link": "https://www.cdc.gov/ncbddd/actearly/parents/states.html",
+      "category": "services"
+    }
+  ],
+  "high_probability": [
+    {
+      "title": "Autism Speaks Resource Guide",
+      "description": "Comprehensive resource guide for families affected by autism.",
+      "link": "https://www.autismspeaks.org/resource-guide",
+      "category": "support"
+    },
+    {
+      "title": "Finding a Developmental Pediatrician",
+      "description": "Steps to find and choose a specialist for developmental assessments.",
+      "link": "",
+      "category": "medical"
+    }
+  ]
+}
